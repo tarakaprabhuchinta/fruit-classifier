@@ -1,0 +1,42 @@
+{
+    "Apple": {
+        "benefits": "Apples are rich in fiber and vitamin C. They support heart health by reducing cholesterol levels. Regular consumption is linked to reduced risk of type 2 diabetes and improved gut health. The antioxidants in apples help protect cells from damage.",
+        "nutrients": "Fiber, Vitamin C, Potassium, Vitamin K, Vitamin B6"
+    },
+    "Banana": {
+        "benefits": "Bananas are an excellent source of potassium which supports heart health and regulates blood pressure. They provide quick energy making them ideal before exercise. Vitamin B6 in bananas supports brain health and mood regulation.",
+        "nutrients": "Potassium, Vitamin B6, Vitamin C, Magnesium, Fiber"
+    },
+    "avocado": {
+        "benefits": "Avocados are rich in healthy monounsaturated fats that support heart health. They help absorb fat soluble vitamins from other foods. Regular consumption improves cholesterol levels and supports eye health due to lutein content.",
+        "nutrients": "Healthy Fats, Fiber, Potassium, Vitamin K, Vitamin E, Folate"
+    },
+    "cherry": {
+        "benefits": "Cherries are packed with antioxidants and anti-inflammatory compounds. They help reduce muscle soreness after exercise and improve sleep quality due to natural melatonin content. Regular consumption may reduce risk of gout and arthritis.",
+        "nutrients": "Vitamin C, Potassium, Fiber, Melatonin, Anthocyanins"
+    },
+    "kiwi": {
+        "benefits": "Kiwi is exceptionally rich in vitamin C — more than oranges. It supports immune function, skin health and iron absorption. Kiwi also improves sleep quality and supports digestive health due to its enzyme actinidin.",
+        "nutrients": "Vitamin C, Vitamin K, Fiber, Potassium, Folate, Vitamin E"
+    },
+    "mango": {
+        "benefits": "Mangoes are rich in vitamins A and C supporting immune function and eye health. They contain powerful antioxidants that protect against cancer. Digestive enzymes in mango aid digestion and their fiber content supports gut health.",
+        "nutrients": "Vitamin A, Vitamin C, Folate, Fiber, Potassium, Vitamin B6"
+    },
+    "orange": {
+        "benefits": "Oranges are one of the best sources of vitamin C which boosts immunity and skin health. They support heart health by reducing cholesterol and blood pressure. Their flavonoids have strong anti-inflammatory and antioxidant properties.",
+        "nutrients": "Vitamin C, Fiber, Folate, Potassium, Thiamine, Calcium"
+    },
+    "pinenapple": {
+        "benefits": "Pineapple contains bromelain, a unique enzyme that aids digestion and reduces inflammation. It supports immune function, bone health and wound healing. Regular consumption may reduce risk of blood clots and improve fertility.",
+        "nutrients": "Vitamin C, Manganese, Bromelain, Fiber, Vitamin B6, Thiamine"
+    },
+    "strawberries": {
+        "benefits": "Strawberries are packed with antioxidants that protect against heart disease and cancer. They help regulate blood sugar levels making them excellent for diabetics. Their high vitamin C content supports skin health and immune function.",
+        "nutrients": "Vitamin C, Fiber, Folate, Potassium, Manganese, Anthocyanins"
+    },
+    "watermelon": {
+        "benefits": "Watermelon is 92% water making it excellent for hydration. It contains lycopene a powerful antioxidant linked to reduced cancer risk. Watermelon supports heart health, reduces muscle soreness and has anti-inflammatory properties.",
+        "nutrients": "Lycopene, Vitamin C, Vitamin A, Potassium, Citrulline, Fiber"
+    }
+}
